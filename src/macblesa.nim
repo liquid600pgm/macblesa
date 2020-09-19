@@ -2,7 +2,7 @@ import aglet
 import rapid/game
 import rapid/graphics
 
-import extinguishscape/resources
+import macblesa/resources
 
 proc main() =
   var g = newGame()

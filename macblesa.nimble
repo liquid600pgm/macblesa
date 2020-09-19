@@ -6,7 +6,7 @@ description =
   "A bored Black Mesa scientist uses a fire extinguisher as a jetpack."
 license = "MIT"
 srcDir = "src"
-bin = @["extinguishscape"]
+bin = @["macblesa"]
 
 
 # Dependencies
